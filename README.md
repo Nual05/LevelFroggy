@@ -1,7 +1,8 @@
 LOSÜNG!
-       #frogs {
+
+                    #frogs {
   				height: 800px;
-  			  margin-top: -800px;
+  			        margin-top: -800px;
   				display: flex;
   				justify-content: space-around;
   				align-items: center;
